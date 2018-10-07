@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Futebol</string>
+    <string name="timeA">Time A</string>
+    <string name="timeB">Time B</string>
+    <string name="gols">Gols</string>
+    <string name="faltas">Faltas</string>
+    <string name="cartoes">Cartões</string>
+    <string name="marcarGol">Marcar Gol</string>
+    <string name="lançarFaltaSimples">Lançar falta simples</string>
+    <string name="lançarFaltaCartao">Lançar falta com cartão</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
